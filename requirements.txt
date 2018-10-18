@@ -1,0 +1,10 @@
+matplotlib
+jupyter
+torch
+pandas
+numpy
+scipy
+seaborn
+sklearn
+boto3
+click
